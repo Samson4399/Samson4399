@@ -2,8 +2,8 @@
 
 <h1 align = "center">👋 Hi, I’m Samson T</h1>
 
-- 👀 I’m interested in ***IoT and Machine Learning.***
-- 🌱 I’m currently learning ***AI/ML Algorithms.***
+- 👀 I’m interested in ***Data Science.***
+- 🌱 I’m currently learning ***Data Science with Python.***
 - 💞️ I’m looking to collaborate on ***Open Source*** and ***ML Projects***.
 - 📫 How to reach me <a href = "samsonsamson4399@gamil.com">Gmail</a>
 - 😄 Pronouns: **He/His**
