@@ -2,6 +2,8 @@
 
 <h1 align = "center">👋 Hi, I’m Samson.T
 </h1>
+
+
 - 🧾 I'm a Fresher B.Tech-IT Graduate(2022 Batch)
 - 👀 I’m interested in ***Data Science,Software Development,Web Development.***
 - 🌱 I have skillsets in ***Python,C,HTML and CSS.***
