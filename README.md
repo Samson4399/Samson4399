@@ -8,7 +8,7 @@
 - 👀 I’m interested in ***Data Science,Software Development,Web Development.***
 - 🌱 I have skillsets in ***Python,C,HTML and CSS.***
 - 💞️ I’m looking to collaborate on ***Open Source*** and ***ML Projects***.
-- 📫 How to reach me <a href = "samsonsamson4399@gamil.com">Gmail</a>
+- 📫 Reach me <a href = "samsonsamson4399@gamil.com">Gmail</a>
 - 😄 Pronouns: **He/His**
 
 <h3 align="left">Connect with me:</h3>
