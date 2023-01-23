@@ -1,9 +1,9 @@
 
 
-<h1 align = "center">👋 Hi, I’m Samson T
-I'm a Fresher B.Tech-IT Graduate</h1>
-
-- 👀 I’m interested in ***Data Science.***
+<h1 align = "center">👋 Hi, I’m Samson.T
+</h1>
+- 🧾 I'm a Fresher B.Tech-IT Graduate(2022 Batch)
+- 👀 I’m interested in ***Data Science,Software Development,Web Development.***
 - 🌱 I have skillsets in ***Python,C,HTML and CSS.***
 - 💞️ I’m looking to collaborate on ***Open Source*** and ***ML Projects***.
 - 📫 How to reach me <a href = "samsonsamson4399@gamil.com">Gmail</a>
